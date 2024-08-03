@@ -67,7 +67,23 @@
       },
       {
         "url": "https://www.instagram.com/",
+        "name": "Google",
         "logo": "https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/62-instagram-512.png"
+      },
+      {
+        "url": "https://www.linkedin.com/",
+        "name": "Google",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png"
+      },
+      {
+        "url": "https://www.twitch.tv/",
+        "name": "Google",
+        "logo": "https://static-00.iconduck.com/assets.00/twitch-icon-2048x2048-wcwal4oz.png"
+      },
+      {
+        "url": "https://www.ubereats.com/",
+        "name": "Google",
+        "logo": "https://seeklogo.com/images/U/uber-eats-logo-CA3BA2098B-seeklogo.com.png"
       }
     ]
   }
