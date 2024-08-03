@@ -4,10 +4,5 @@
   "version": "1.0",
   "manifest_version": 3,
   "permissions": ["storage", "activeTab", "scripting"],
-  "chrome_url_overrides": { "newtab": "index.html" },
-  "short_name": "React App",
-  "start_url": ".",
-  "display": "standalone",
-  "theme_color": "#000000",
-  "background_color": "#ffffff"
+  "chrome_url_overrides": { "newtab": "./public/index.html" }
 }

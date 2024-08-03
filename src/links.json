@@ -1,0 +1,73 @@
+{
+    "links": [
+      {
+        "url": "https://www.youtube.com/",
+        "name": "YouTube",
+        "logo": "https://t3.ftcdn.net/jpg/04/74/05/94/360_F_474059464_qldYuzxaUWEwNTtYBJ44VN89ARuFktHW.jpg"
+      },
+      {
+        "url": "https://www.github.com/",
+        "name": "GitHub",
+        "logo": "https://static-00.iconduck.com/assets.00/github-icon-2048x2048-zra4hqic.png"
+      },
+      {
+        "url": "https://www.google.com/",
+        "name": "Google",
+        "logo": "https://cdn1.iconfinder.com/data/icons/google-s-logo/150/Google_Icons-09-512.png"
+      },
+      {
+        "url": "infinity://gmail",
+        "name": "Gmail",
+        "logo": "https://static-00.iconduck.com/assets.00/gmail-icon-2048x2048-a884vvkv.png"
+      },
+      {
+        "url": "https://photos.google.com",
+        "name": "Google Photos",
+        "logo": "https://cdn.iconscout.com/icon/free/png-256/free-google-photos-2981833-2476486.png?f=webp&w=256"
+      },
+      {
+        "url": "https://drive.google.com",
+        "name": "Google",
+        "logo": "https://static-00.iconduck.com/assets.00/google-drive-icon-2048x2048-j5sa1hcp.png"
+      },
+      {
+        "url": "https://www.google.com/calendar/",
+        "name": "Google",
+        "logo": "https://cdn1.iconfinder.com/data/icons/google-s-logo/150/Google_Icons-03-512.png"
+      },
+      {
+        "url": "https://gemini.google.com/app",
+        "name": "Google",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThr7qrIazsvZwJuw-uZCtLzIjaAyVW_ZrlEQ&s"
+      },
+      {
+        "url": "https://chat.openai.com/chat",
+        "name": "Google",
+        "logo": "https://static.vecteezy.com/system/resources/previews/021/059/825/original/chatgpt-logo-chat-gpt-icon-on-green-background-free-vector.jpg"
+      },
+      {
+        "url": "https://www.reddit.com/",
+        "name": "Google",
+        "logo": "https://static-00.iconduck.com/assets.00/reddit-icon-2048x2048-ya82zt8l.png"
+      },
+      {
+        "url": "https://x.com/home",
+        "name": "Google",
+        "logo": "https://img.freepik.com/free-vector/new-2023-twitter-logo-x-icon-design_1017-45418.jpg?size=338&ext=jpg&ga=GA1.1.2008272138.1722643200&semt=ais_hybrid"
+      },
+      {
+        "url": "https://www.facebook.com/",
+        "name": "Google",
+        "logo": "https://cdn.pixabay.com/photo/2021/06/15/12/51/facebook-6338507_1280.png"
+      },
+      {
+        "url": "https://www.messenger.com/",
+        "name": "Google",
+        "logo": "https://cdn4.iconfinder.com/data/icons/social-media-2285/1024/logo-512.png"
+      },
+      {
+        "url": "https://www.instagram.com/",
+        "logo": "https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/62-instagram-512.png"
+      }
+    ]
+  }
