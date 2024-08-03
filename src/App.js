@@ -1,5 +1,5 @@
 import './App.css';
-// import AddFav from './components/AddFav';
+import AddFav from './components/AddFav';
 import FavLinkArea from './components/FavLinkArea';
 // import LinksListEditor from './components/LinksListEditor';
 import TimeCard from './components/TimeCard';
@@ -17,7 +17,7 @@ function App() {
     <div className="App">
       <TimeCard/>
       <FavLinkArea/>
-      {/* <AddFav/> */}
+      <AddFav/>
       {/* <LinksListEditor/> */}
     </div>
   );
