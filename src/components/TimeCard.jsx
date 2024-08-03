@@ -9,6 +9,7 @@ const formatTime = (date) => {
   return `${hours}:${formattedMinutes}`;
 };
 
+
 const TimeCard = () => {
   const [time, setTime] = useState(formatTime(new Date()));
 
