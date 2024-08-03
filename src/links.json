@@ -27,83 +27,134 @@
       },
       {
         "url": "https://drive.google.com",
-        "name": "Google",
+        "name": "Google Drive",
         "logo": "https://static-00.iconduck.com/assets.00/google-drive-icon-2048x2048-j5sa1hcp.png"
       },
       {
         "url": "https://www.google.com/calendar/",
-        "name": "Google",
+        "name": "Google Calendar",
         "logo": "https://cdn1.iconfinder.com/data/icons/google-s-logo/150/Google_Icons-03-512.png"
       },
       {
         "url": "https://gemini.google.com/app",
-        "name": "Google",
+        "name": "Google Gemini",
         "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThr7qrIazsvZwJuw-uZCtLzIjaAyVW_ZrlEQ&s"
       },
       {
         "url": "https://chat.openai.com/chat",
-        "name": "Google",
+        "name": "ChatGPT",
         "logo": "https://static.vecteezy.com/system/resources/previews/021/059/825/original/chatgpt-logo-chat-gpt-icon-on-green-background-free-vector.jpg"
       },
       {
         "url": "https://www.reddit.com/",
-        "name": "Google",
+        "name": "Reddit",
         "logo": "https://static-00.iconduck.com/assets.00/reddit-icon-2048x2048-ya82zt8l.png"
       },
       {
         "url": "https://x.com/home",
-        "name": "Google",
+        "name": "X (formerly Twitter)",
         "logo": "https://img.freepik.com/free-vector/new-2023-twitter-logo-x-icon-design_1017-45418.jpg?size=338&ext=jpg&ga=GA1.1.2008272138.1722643200&semt=ais_hybrid"
       },
       {
         "url": "https://www.facebook.com/",
-        "name": "Google",
+        "name": "Facebook",
         "logo": "https://cdn.pixabay.com/photo/2021/06/15/12/51/facebook-6338507_1280.png"
       },
       {
         "url": "https://www.messenger.com/",
-        "name": "Google",
+        "name": "Messenger",
         "logo": "https://cdn4.iconfinder.com/data/icons/social-media-2285/1024/logo-512.png"
       },
       {
         "url": "https://www.instagram.com/",
-        "name": "Google",
+        "name": "Instagram",
         "logo": "https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/62-instagram-512.png"
       },
       {
         "url": "https://www.linkedin.com/",
-        "name": "Google",
+        "name": "LinkedIn",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png"
       },
       {
         "url": "https://www.twitch.tv/",
-        "name": "Google",
+        "name": "Twitch",
         "logo": "https://static-00.iconduck.com/assets.00/twitch-icon-2048x2048-wcwal4oz.png"
       },
       {
         "url": "https://www.ubereats.com/",
-        "name": "Google",
+        "name": "Uber Eats",
         "logo": "https://seeklogo.com/images/U/uber-eats-logo-CA3BA2098B-seeklogo.com.png"
       },
       {
         "url": "https://www.unsplash.com",
-        "name": "Google",
+        "name": "Unsplash",
         "logo": "https://cdn.icon-icons.com/icons2/3261/PNG/512/unsplash_logo_icon_206651.png"
       },
       {
         "url": "https://www.pexels.com",
-        "name": "Google",
+        "name": "Pexels",
         "logo": "https://seeklogo.com/images/P/pexels-logo-EFB9232709-seeklogo.com.png"
       },
       {
         "url": "https://www.pinterest.com",
-        "name": "Google",
+        "name": "Pinterest",
         "logo": "https://cdn-icons-png.freepik.com/512/2496/2496099.png"
       },
       {
         "url": "https://www.imgur.com",
-        "name": "Google",
+        "name": "Imgur",
         "logo": "https://images.crunchbase.com/image/upload/c_pad,f_auto,q_auto:eco,dpr_1/n7gnwha4eq9ewjjtksrt"
+      },
+      {
+        "url": "https://www.deviantart.com/",
+        "name": "Imgur",
+        "logo": "https://freepngimg.com/thumb/categories/1338.png"
+      },
+      {
+        "url": "https://nopaste.boris.sh/",
+        "name": "Imgur",
+        "logo": "https://cdn-icons-png.freepik.com/512/7235/7235464.png"
+      },
+      {
+        "url": "https://budget-track.web.app/",
+        "name": "Imgur",
+        "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/90/7e/70/907e70e4-824b-1754-54e7-e534a078bf9a/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/512x512bb.jpg"
+      },
+      {
+        "url": "https://www.formula1.com/en/racing/2024.html",
+        "name": "Imgur",
+        "logo": "https://i.pinimg.com/originals/47/49/07/474907905a00e68c5ba636b72bed9e3f.png"
+      },
+      {
+        "url": "https://sameerasw.com/",
+        "name": "Imgur",
+        "logo": "https://www.sameerasw.com/assets/img/logo-mini.png"
+      },
+      {
+        "url": "https://dlg.dialog.lk/mydialog-web?language=en",
+        "name": "Imgur",
+        "logo": "https://i.pinimg.com/280x280_RS/56/ee/fe/56eefe4d7953d6cd43089ef54766fc2d.jpg"
+      },
+      {
+        "url": "https://www.speedtest.net/",
+        "name": "Imgur",
+        "logo": "https://store-images.s-microsoft.com/image/apps.64657.13510798887693184.740d7baf-50aa-4e26-adec-ae739ac12068.07f4bf1f-b0db-40dc-a302-b37590c681d4?h=464"
+      },
+      {
+        "url": "https://analytics.google.com/analytics/web",
+        "name": "Imgur",
+        "logo": "https://st3.depositphotos.com/20523356/32838/v/450/depositphotos_328381046-stock-illustration-infographic-icon-inspired-google-analytics.jpg"
+      },
+      {
+        "url": "https://app.netlify.com/teams/sameerasw/overview",
+        "name": "Imgur",
+        "logo": "https://miro.medium.com/v2/resize:fit:2400/0*BRl-uL7N9LF-1hiD.png"
+      },
+      {
+        "url": "https://basicappleguy.com/",
+        "name": "Imgur",
+        "logo": "https://pbs.twimg.com/profile_images/1522623872717099013/h5fNVE5d_400x400.jpg"
       }
+
     ]
   }
